@@ -6,8 +6,8 @@
 
 <p>
 <em>
-Estudiante de Ingeniería en Sistemas 💻 <br>
-Apasionado por el desarrollo de software, las bases de datos y las aplicaciones móviles 🚀
+Estudiante de Ingeniería en Sistemas <br>
+Apasionado por el desarrollo de software, las bases de datos y las aplicaciones móviles
 </em>
 </p>
 
